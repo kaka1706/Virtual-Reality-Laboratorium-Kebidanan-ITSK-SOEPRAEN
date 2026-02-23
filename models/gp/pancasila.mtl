@@ -1,0 +1,20 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl _1
+Ka 0.000000 0.000000 0.000000
+Kd 0.384314 0.384314 0.384314
+Ks 0.330000 0.330000 0.330000
+
+newmtl garuda_pancasila_01
+Ka 0.000000 0.000000 0.000000
+Kd 0.898039 0.850980 0.713725
+Ks 0.330000 0.330000 0.330000
+map_Kd pancasila/garuda_pancasila_01.jpg
+
+newmtl _2
+Ka 0.000000 0.000000 0.000000
+Kd 0.815686 0.768627 0.647059
+Ks 0.330000 0.330000 0.330000
+
